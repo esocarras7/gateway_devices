@@ -13,10 +13,11 @@ This application allows the management of gateways and their respective devices.
 
 ### Installing
 
-1- Download the
-2- Run the following commands:
+1- Download the project  
+2- Run the following command:
 dotnet build
 
 ### Executing program
 
+1-Run the following command
 dotnet watch run
