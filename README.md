@@ -24,7 +24,7 @@ This application is a web api that allows the management of gateways and their r
 2. The web api raises in any of the following urls, by default the first url:  
    https://localhost:5001  
    http://localhost:5000
-3. The web api enpoints are the following:
+3. The web api endpoints are the following:
    - https://localhost:5001/api/gateway : all gateways (GET method)
    - https://localhost:5001/api/gateway/{id} : gateway by id (GET method)
    - https://localhost:5001/api/gateway : create new gateway (POST method)
