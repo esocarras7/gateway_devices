@@ -8,8 +8,11 @@ This application is a web api that allows the management of gateways and their r
 
 ### Getting Started
 
+Prerequisites:
+
 1. .Net Core 3.1 SDK installed
 2. The database is in-memory, so it does not require a database manager
+3. VSCode or Visual Studio 2019 installed to be able to run the web api and debug if desired
 
 ### Installing
 
