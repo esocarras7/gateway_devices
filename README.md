@@ -24,6 +24,30 @@ This application is a web api that allows the management of gateways and their r
 2. The web api raises in any of the following urls, by default the first url:  
    https://localhost:5001  
    http://localhost:5000
+3. The web api enpoints are the following:
+   - https://localhost:5001/api/gateway : all gateways (GET method)
+   - https://localhost:5001/api/gateway/{id} : gateway by id (GET method)
+   - https://localhost:5001/api/gateway : create new gateway (POST method)
+   - https://localhost:5001/api/gateway/{id} : remove gateway (DELETE method)
+   - https://localhost:5001/api/gateway/{id} : add device to gateway (PATCH method), json body format example:
+     [
+     {
+     "op": "add",
+     "path": "/devices/-",
+     "value": {
+     "vendor":"At&t",
+     "createdDate":"2021-07-18T21:21:59.048361",
+     "status":"Online"
+     }
+     }
+     ]
+   - https://localhost:5001/api/gateway/{id} : remove device from gateway (PATCH method), json body format example:
+     [
+     {
+     "op": "remove",
+     "path": "/devices/0"
+     }
+     ]
 
 ### Testing
 
