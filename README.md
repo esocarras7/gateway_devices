@@ -21,6 +21,9 @@ This application is a web api that allows the management of gateways and their r
 
 1. Run the following command:  
    dotnet watch run
+2. The web api raises in any of the following urls, by default the first url:  
+   https://localhost:5001  
+   http://localhost:5000
 
 ### Testing
 
