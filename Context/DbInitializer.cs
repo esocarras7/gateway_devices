@@ -14,7 +14,7 @@ namespace gateway_devices.Context
             {
                 var context = serviceScope.ServiceProvider.GetService<GatewayDbContext>();
                 context.Database.EnsureCreated();
-                // Look for any students.
+                // Look for any gateways.
                 if (context.Gateways != null && context.Gateways.Any())
                 {
                     return; // DB has been seeded 
