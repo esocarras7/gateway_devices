@@ -8283,11 +8283,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Eddy\\Desktop\\gateways-devices application (Eddy Socarrás)\\gateway_devices\\gateway_devices.csproj",
+      "projectUniqueName": "C:\\Data\\Cursos\\CodeChallenge\\Musala Soft\\gateways-devices application (Eddy Socarrás)\\gateway_devices\\gateway_devices.csproj",
       "projectName": "gateway_devices",
-      "projectPath": "C:\\Users\\Eddy\\Desktop\\gateways-devices application (Eddy Socarrás)\\gateway_devices\\gateway_devices.csproj",
+      "projectPath": "C:\\Data\\Cursos\\CodeChallenge\\Musala Soft\\gateways-devices application (Eddy Socarrás)\\gateway_devices\\gateway_devices.csproj",
       "packagesPath": "C:\\Users\\Eddy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Eddy\\Desktop\\gateways-devices application (Eddy Socarrás)\\gateway_devices\\obj\\",
+      "outputPath": "C:\\Data\\Cursos\\CodeChallenge\\Musala Soft\\gateways-devices application (Eddy Socarrás)\\gateway_devices\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

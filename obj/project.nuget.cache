@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XgWGiuSF04F7qvcfsPsEambmFIk8EO/COwv7Ls6UxPw16mfkcay4dUdHDSzS1pIlotIqFtPT4xh2V5HAuutylw==",
+  "dgSpecHash": "cblTKl14dyH9IyI+zifo0QOeiaWBcdVwKdtdlSFa+Mk7AFG65OVINRCIUg1+RRhwm8jGaUVNJfKx5R4CGq6DSg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Eddy\\Desktop\\gateways-devices application (Eddy Socarrás)\\gateway_devices\\gateway_devices.csproj",
+  "projectFilePath": "C:\\Data\\Cursos\\CodeChallenge\\Musala Soft\\gateways-devices application (Eddy Socarrás)\\gateway_devices\\gateway_devices.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Eddy\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Eddy\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.4\\microsoft.aspnetcore.jsonpatch.3.1.4.nupkg.sha512",
